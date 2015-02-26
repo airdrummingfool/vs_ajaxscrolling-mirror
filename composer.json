@@ -1,0 +1,6 @@
+{
+    "name": "vs/ajaxscrolling",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "extra": { "package-xml": "package.xml" }
+}
