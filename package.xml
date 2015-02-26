@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>VS_Ajaxscrolling</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Infinite Scroll continuously loads more products as the user scrolls down. Increase your conversion rate</summary>
+    <description>Ajax  Infinite Scroll continuously loads more products as the user scrolls down. Increase your conversion rate  Ajax scrolling is added to the catalog pages (anchor and non-anchor), search result pages (both advanced and simple) and the tag list page.</description>
+    <notes>Ajax  Infinite Scroll continuously loads more products as the user scrolls down. Increase your conversion rate  Ajax scrolling is added to the catalog pages (anchor and non-anchor), search result pages (both advanced and simple) and the tag list page.</notes>
+    <authors><author><name>Virendra Kumar Sharma</name><user>auto-converted</user><email>bhardwajveerendra@gmail.com</email></author></authors>
+    <date>2012-06-17</date>
+    <time>09:36:13</time>
+    <contents><target name="magecommunity"><dir name="VS"><dir name="Ajaxscroll"><dir name="Block"><file name="About.php" hash="616769248b8900fd4a20f196adb67545"/></dir><dir name="Helper"><file name="Data.php" hash="fb8d392c9459e49fa5fa4025287aa243"/></dir><dir name="etc"><file name="config.xml" hash="53ace8bf4b3de0688797ba10d887c349"/><file name="system.xml" hash="fad3e9841c2e8154c4de296dff5dc34c"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="VS_Ajaxscroll.xml" hash="6b0866337823a31cc5d1fefabab6d10f"/></dir></target><target name="mageskin"><dir name="frontend"><dir name="default"><dir name="default"><dir name="css"><dir name="ajaxscroll"><file name="ajaxscroll.css" hash="627909b1938fba275547e59f25d405d3"/></dir></dir><dir name="images"><dir name="ajaxscroll"><file name="loader.gif" hash="7b9776076d5fceef4993b55c9383dedd"/></dir></dir></dir></dir></dir></target><target name="mage"><dir name="js"><dir name="ajaxscroll"><file name="jquery-1.7.2.min.js" hash="acc0adc6c188845a409bf158d2de4451"/><file name="jquery-noconflict.js" hash="3179f2255b046d5f2e9a71e365287bef"/><file name="jquery.ias.min.js" hash="636afb62cc4d5d34a34be5ab462e338e"/></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="ajaxscroll.xml" hash="d34650401302187b6b1064202454d67a"/></dir><dir name="template"><dir name="ajaxscroll"><file name="ajaxscroll.phtml" hash="da71d483d6a8bda0fdfc8f681ae1d0cd"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies/>
+</package>
